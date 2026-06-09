@@ -1,1 +1,2 @@
 # evaluacion-poo
+El codigo que vamos a realizar va a ser sobre una tienda de animales, en donde vamos a tener clases donde la persona va a ver por pantalla los animales, los cuales van  poder adoptar y muestra por pantalla los datos de cada animal, despues de pedir los datos por pantalla, muestra en la consola los datos de el animal y termina mostrando por pantalla que la adopcion fue excitosa (realizado en el primer avance de el proyecto)
