@@ -126,4 +126,3 @@ def menu():
             print("Opción no válida. Elige un número del 1 al 6.")
             #Este menú permite al usuario interactuar con el sistema de adopción así el usuario puede registrar perros, gatos y adoptantes, ver la lista de mascotas disponibles y procesar adopciones cabe aclarar que el programa se ejecuta en un bucle hasta que el usuario decide salir
             #Cada opción del menú corresponde a una acción específica que el usuario puede realizar, y se manejan las entradas del usuario para crear objetos de las clases correspondientes y llamar a los métodos adecuados del centro de adopción.
-            #
