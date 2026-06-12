@@ -1,4 +1,4 @@
-# evaluacion-poo
+# Gabriel Herrera y Neliad Abarca
 ¿que problema resualve el codigo? 
 este codigo resuelve un sistema de adopcion para una veterinaria, mas especificamente el centro de adopcion de esta misma. 
 ¿a que tipo de usuarios esta dirigido? 
